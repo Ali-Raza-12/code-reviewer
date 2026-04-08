@@ -56,10 +56,3 @@ Add your `GEMINI_API_KEY` and `MONGODB_URI` to `.env`.
 ## 👨‍💻 Author
 
 **Ali Raza** · [razatech.vercel.app](https://razatech.vercel.app) · [ali.raza82258@gmail.com](mailto:ali.raza82258@gmail.com)
-```
-
----
-
-## 👨‍💻 Author
-
-**Ali Raza** · [razatech.vercel.app](https://razatech.vercel.app) · [ali.raza82258@gmail.com](mailto:ali.raza82258@gmail.com)
